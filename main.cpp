@@ -58,9 +58,9 @@ int FIRST_INPUT()
     std::cout << "   ====================================================================== " << std::endl;
     std::cout << "   | [1] --> Commence un nouveau calcul.                                |          <-- Not working." << std::endl;
     std::cout << "   | [2] --> Ouvrir un fichier calculde organ counter (fichier '.OCCL').|          <-- Not working." << std::endl;
-    std::cout << "   | [3] --> Ouvre l'aide.                                              |          <-- Not working." << std::endl;
-    std::cout << "   | [4] --> Nettoyer.                                                  |          <-- Not working." << std::endl;
-    std::cout << "   | [5] --> Quitte 'Organ Counter'.                                    |          <-- Not working." << std::endl;
+    std::cout << "   | [3] --> Ouvre l'aide.                                              |" << std::endl;
+    std::cout << "   | [4] --> Nettoyer.                                                  |" << std::endl;
+    std::cout << "   | [5] --> Quitte 'Organ Counter'.                                    |" << std::endl;
     std::cout << "   ====================================================================== " << std::endl;
 
     std::cout << ">";
